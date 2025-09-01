@@ -12,8 +12,8 @@
       $('.hero-slides').vegas({
           slides: [
               { src: 'images/slides/1.jpg' },
-              { src: 'images/happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg' },
-              { src: 'images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg' }
+              { src: 'images/slides/2.jpg' },
+              { src: 'images/slides/3.jpg' }
           ],
           timer: false,
           animation: 'kenburns',
